@@ -10,3 +10,8 @@ The notebooks can be viewed using the latest version of **Ipython**. If you wish
 * numpy
 * sympy
 
+
+
+
+You can view the notebooks right here on github by just opnening the ipynb files.
+
